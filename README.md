@@ -19,3 +19,5 @@ Kullanım/Usage: python3 main.py <path_to_book>
 ```python
 python3 main.py books/frankenstein.txt
 ```
+
+![alt text](image.png)
